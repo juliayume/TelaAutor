@@ -130,7 +130,7 @@ nav > ul > li:hover > a {
     display: flex;
     flex-direction: column;
     align-items: baseline;
-    margin-left: 55%;
+    margin-left: 50%;
 }
 
 section {
