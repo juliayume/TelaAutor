@@ -108,6 +108,7 @@ nav > ul > li:hover > a {
     max-width: 80%;
     max-height: 80%;
     position: fixed;
+    margin-left: 5%;
 }
 
 .txt{
